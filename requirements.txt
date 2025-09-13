@@ -1,0 +1,7 @@
+Faced difficulties with completing all of the tasks. 3a is incomplete, I was unable to troubleshoot
+the problem within the given time period. Faced difficulties with install wav2vec package on my 
+vscode as my python version is not suitable for wav2vec. Solved the problem by using google colab.
+However, faced additional challenges that prevents me from completing the task within the stipulated
+time period. As a result, I was not able to do the subsequent tasks although I would have loved to 
+complete the rest of it if given more time. Put a lot of time on trying to accomplish 3a and as a
+result, I was unable to finish task 2e as well.
